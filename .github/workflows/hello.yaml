@@ -11,3 +11,11 @@ jobs:
     steps:
     - name: my-step
       run: echo "Hello World!"
+  my-second-job:
+    runs-on: ubuntu-latest
+    steps:
+    - name: my-step
+      run: echo "Second"
+    - uses: HormCode/do-not-deploy-on-friday@v1
+      with:
+        timezone: Europe/Prague
