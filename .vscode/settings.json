@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-action.json": "file:///d%3A/Documentos/Desarrollo/Bootscamp/BootCamp-gitHub/BootCampDevops-2022/Sesion8_GitActions_Ciriaco/miprimerrepoaction/.github/workflows/continuous-integration.yaml"
+    }
+}
