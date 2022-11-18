@@ -16,6 +16,7 @@ jobs:
     steps:
     - name: my-step
       run: echo "Second"
-    - uses: HormCode/do-not-deploy-on-friday@v1
+    - uses: HormCodes/do-not-deploy-on-friday@v1
+      # See Inputs section below...
       with:
         timezone: Europe/Prague
