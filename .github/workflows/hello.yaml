@@ -1,5 +1,5 @@
 # Nombre del workflow (aparecerá en la GUI)
-name: hello-world
+name: hello
 # Cuándo se ejecuta: https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
 on: push
 jobs:
